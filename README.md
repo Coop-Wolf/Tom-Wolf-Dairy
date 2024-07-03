@@ -1,2 +1,2 @@
 # Tom-Wolf-Dairy
-Programs to optimize dairy operations
+While growing up on a dairy farm, I have seen my dad work his butt off day in and day out. Often times though, I see him having to do the same tedious tasks repeatedly. Finally, I asked him if there was any way I have automate the different things he was having to do in order to speed up the process. This repo includes programs that are used by him to optimize the daily dairy operations.  
