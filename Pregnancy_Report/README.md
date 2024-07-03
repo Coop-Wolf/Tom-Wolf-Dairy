@@ -18,9 +18,3 @@ This program reads in data from a pregnancy report sheet which includes the cow,
 - It will then ask for the output to send the results to
 - After, it will ask if new cows need to be added to the list
 - Finally, the program will print the results all the data
-
-- Example Output:
-- Cow   Breed Date   Dry Date     Bring date   Calf Date    Sire
-- -------------------------------------------------------------------
-- 387   2023-10-18   2024-06-04   2024-07-15   2024-07-29   7H015839
-- 376   2023-11-06   2024-06-23   2024-08-03   2024-08-17   7H015839
